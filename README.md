@@ -1,12 +1,12 @@
-# 🃏 Shatta Vodou : Edition "Le Dé du Destin"
+# 🃏 Yiesi : "Le Dé du Destin"
 
-Une implémentation moderne et graphique du célèbre jeu **Shatta Vodou**. Alliez le hasard pur d'un dé à 52 faces à la mystique des cartes pour retrouver votre cible avant que le paquet ne disparaisse !
+Alliez le hasard pur d'un dé à 52 faces à la mystique des cartes pour retrouver votre cible avant que le paquet ne disparaisse !
 
 ---
 
 ## 📖 Le Concept
 
-Le **Shatta Vodou** est un jeu de probabilités interactif. Le but est de sélectionner une carte fétiche via un dé rituel, puis de la traquer dans un paquet en mouvement. Plus vous échouez, plus les forces du "Vodou" vous aident en réduisant la taille du paquet.
+**Yiesi** est un jeu de probabilités interactif. Le but est de sélectionner une carte fétiche via un dé rituel, puis de la traquer dans un paquet en mouvement. Plus vous échouez, plus les forces du "destin" vous aident en réduisant la taille du paquet.
 
 ### 🎮 Règles du Jeu
 
